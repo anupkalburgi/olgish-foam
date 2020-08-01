@@ -19,7 +19,7 @@ General Guide:
 2. don't write code, if you don't understand the problem. Code is a way of telling something to a computer what todo. Before you can do that you have to know what you need to do 
 3. Write code and commit code and ask for feedback as soon as you can
 	
-### [[Week_1]] - Aug 3 -Aug 7th
+### [[[Week_1]]] - Aug 3 -Aug 7th
 #### We will learn
 1. Python programming 101
 2. Object Oriented Programming Concepts
